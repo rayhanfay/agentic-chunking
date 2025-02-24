@@ -1,0 +1,15 @@
+typing-extensions
+pymupdf
+python-docx
+PyPDF2==3.0.1
+pandas==2.2.3
+camelot-py[cv]==1.0.0
+ipython
+phi
+ollama==0.4.7
+langchain
+faiss-cpu
+torch
+transformers
+sentence-transformers
+utils

@@ -1,0 +1,8 @@
+docker-compose.yml
+volumes
+.venv
+.env
+data/*pdf
+data/*docx
+data/*txt
+*/__pycache__

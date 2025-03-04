@@ -179,6 +179,6 @@ The system includes robust error handling for:
 Console output provides processing insights:
 
 ```python
-print(f"[INFO] {filename} - Panjang teks sebelum pemrosesan: {len(plain_text)}")
+print(f"[INFO] {filename} - Text length before processing: {len(plain_text)}")
 print(f"[INFO] Total chunks generated for {filename}: {len(chunk_data)}")
 ```
